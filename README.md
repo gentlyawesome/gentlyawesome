@@ -1,27 +1,47 @@
-# 🚀 Full Stack Developer Extraordinaire
+# 🚀 Full Stack Developer Extraordinaire  
 
-Welcome to my profile! I'm a passionate and experienced Full Stack Developer with a knack for building cutting-edge applications and solutions. With a diverse range of skills and expertise, I thrive in the fast-paced world of technology, constantly pushing boundaries and creating exciting projects.
+Welcome to my GitHub profile! I'm **Arc Angelo Ibalio**, a seasoned and innovative **Full Stack Developer** with a passion for crafting cutting-edge web and mobile applications. My expertise spans a diverse array of technologies and industries, including **Blockchain**, **NFTs**, **AR/VR**, **DevOps**, and **Test-Driven Development**.  
 
-## Overview
-I have a strong foundation in Full Stack Development, specializing in areas such as Blockchain, NFTs, AR/VR, and more. My journey has been filled with thrilling experiences, where I've had the opportunity to work on challenging projects for various clients and companies.
+## 🌟 Professional Overview  
+With over a decade of experience in software development, I've delivered robust solutions for global clients, startups, and enterprises. My career highlights include:  
+- 🚀 Developing NFT marketplaces, custom ERC-20 tokens, and DAML smart contracts.  
+- 🎮 Building AR-based virtual showrooms and creating real-time communication systems with WebRTC.  
+- ⚙️ Spearheading CI/CD implementations and delivering hybrid applications for cross-platform use.  
+- 👨‍🏫 Training teams in frontend development and leading agile project management practices.  
 
-From creating decentralized marketplaces for NFTs and upgrading DAML Smart Contracts to building AR-based virtual showrooms and implementing secure API solutions, my work spans across a wide spectrum of technologies and industries. I've also ventured into freelancing, collaborating with startups and companies to provide DevOps solutions, frontend teaching, project management, and more.
+My mission is to bridge technical challenges with creative problem-solving, delivering applications that are not just functional but also impactful and user-friendly.  
 
-Throughout my career, I've honed my skills in technologies like Solidity, Ethereum, Web3.js, React, Angular, Node.js, and Java Springboot. I've also mastered database systems like MongoDB, SQL, and Firebase, and embraced version control with Git. With a strong emphasis on testing and deployment, I'm well-versed in tools like Mocha, Chai, Jest, and CI/CD practices.
+## 💻 Skills and Expertise  
 
-## Skills and Expertise
-**Blockchain Development:** Solidity, Ethereum, Web3.js, DAML
+### **Blockchain Development**  
+- Solidity, Ethereum, DAML, Web3.js, ERC-20/721/1155, IPFS, MetaMask Integration  
 
-**NFTs:** ERC-721, ERC-1155, OpenSea, IPFS
+### **Web & Mobile Development**  
+- **Frontend**: React.js, Angular, Ionic, Bootstrap, Tailwind CSS  
+- **Backend**: Node.js, Express.js, Java Spring Boot, Firebase  
+- **APIs**: REST, GraphQL, WebSocket, Secure API Practices  
 
-**AR/VR:** Unity, Unreal Engine, Vuforia, ARKit, ARCore
+### **AR/VR & Emerging Tech**  
+- Unity, Unreal Engine, AR.js, Vuforia, ARKit, ARCore  
 
-**Web Development:** HTML, CSS, JavaScript, React, Angular, Node.js
+### **DevOps & Testing**  
+- Jenkins, Docker, Git, Mocha, Chai, Jest, CI/CD pipelines  
 
-**Database:** SQL, MongoDB, Firebase
+### **Database Systems**  
+- SQL, MongoDB, PostgreSQL, CouchDB, PouchDB  
 
-**DevOps:** Jenkins, Docker, Git
+### **Project Management**  
+- Agile, Scrum, Jira, Sprints  
 
-**Testing:** Mocha, Chai, Jest
+## 🌍 Notable Projects  
+- **Ark of Dreams**: A metaverse platform featuring NFT pets and blockchain integrations.  
+- **Fitinity App**: A fitness platform enabling instructors to teach clients online.  
+- **Xplorer**: A blockchain-based treasure hunting app with AR/VR capabilities.  
+- **MOHCares Brunei**: A feedback system for government facilities using cross-platform technology.  
 
-**Project Management:** Agile, Scrum
+Explore my repositories to see how I transform ideas into scalable, efficient, and engaging solutions!  
+
+## 📫 Let’s Connect!  
+📍 **Baguio City, Philippines**  
+📧 [gentlyawesome@gmail.com](mailto:gentlyawesome@gmail.com)  
+🌐 [github.com/gentlyawesome](https://github.com/gentlyawesome)  
