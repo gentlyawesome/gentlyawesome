@@ -1,47 +1,76 @@
-# 🚀 Full Stack Developer Extraordinaire  
+# 👋 Hi, I'm Arc Angelo Ibalio
 
-Welcome to my GitHub profile! I'm **Arc Angelo Ibalio**, a seasoned and innovative **Full Stack Developer** with a passion for crafting cutting-edge web and mobile applications. My expertise spans a diverse array of technologies and industries, including **Blockchain**, **NFTs**, **AR/VR**, **DevOps**, and **Test-Driven Development**.  
+🚀 Full Stack Engineer • Blockchain Specialist • DevOps Enthusiast  
+🌍 Based in the Philippines | Working Globally  
+📫 [Email me](mailto:gentlyawesome@gmail.com) | 🌐 [Visit My GitHub](https://github.com/gentlyawesome)
 
-## 🌟 Professional Overview  
-With over a decade of experience in software development, I've delivered robust solutions for global clients, startups, and enterprises. My career highlights include:  
-- 🚀 Developing NFT marketplaces, custom ERC-20 tokens, and DAML smart contracts.  
-- 🎮 Building AR-based virtual showrooms and creating real-time communication systems with WebRTC.  
-- ⚙️ Spearheading CI/CD implementations and delivering hybrid applications for cross-platform use.  
-- 👨‍🏫 Training teams in frontend development and leading agile project management practices.  
+---
 
-My mission is to bridge technical challenges with creative problem-solving, delivering applications that are not just functional but also impactful and user-friendly.  
+## 🧠 About Me
 
-## 💻 Skills and Expertise  
+I'm a results-driven **Full Stack Developer** with over **10 years of experience** delivering scalable, secure, and innovative solutions across web, mobile, and blockchain platforms. I thrive on solving complex technical challenges, leading cross-functional teams, and turning ideas into production-ready products. 
 
-### **Blockchain Development**  
-- Solidity, Ethereum, DAML, Web3.js, ERC-20/721/1155, IPFS, MetaMask Integration  
+From fintech and metaverse to government apps and e-commerce marketplaces, I've helped businesses across the US, UK, India, and the Philippines thrive using MERN/MEAN stacks, Solidity, and modern DevOps workflows.
 
-### **Web & Mobile Development**  
-- **Frontend**: React.js, Angular, Ionic, Bootstrap, Tailwind CSS  
-- **Backend**: Node.js, Express.js, Java Spring Boot, Firebase  
-- **APIs**: REST, GraphQL, WebSocket, Secure API Practices  
+---
 
-### **AR/VR & Emerging Tech**  
-- Unity, Unreal Engine, AR.js, Vuforia, ARKit, ARCore  
+## 🛠️ Core Tech Stack
 
-### **DevOps & Testing**  
-- Jenkins, Docker, Git, Mocha, Chai, Jest, CI/CD pipelines  
+- **Frontend**: ReactJS, NextJS, Ionic, AngularJS, TailwindCSS, Bootstrap
+- **Backend**: NodeJS, ExpressJS, Spring Boot, Firebase, DAML
+- **Blockchain**: Solidity, Web3, ERC20/ERC721, Flow Blockchain
+- **DevOps**: Docker, Jenkins, Git, SonarQube, CI/CD, Linux/Unix
+- **Database**: MongoDB, PostgreSQL, MySQL, CouchDB, Firebase
+- **Others**: WebRTC, AR.js, VR.js, Figma, TDD
 
-### **Database Systems**  
-- SQL, MongoDB, PostgreSQL, CouchDB, PouchDB  
+---
 
-### **Project Management**  
-- Agile, Scrum, Jira, Sprints  
+## 🔨 Featured Projects
 
-## 🌍 Notable Projects  
-- **Ark of Dreams**: A metaverse platform featuring NFT pets and blockchain integrations.  
-- **Fitinity App**: A fitness platform enabling instructors to teach clients online.  
-- **Xplorer**: A blockchain-based treasure hunting app with AR/VR capabilities.  
-- **MOHCares Brunei**: A feedback system for government facilities using cross-platform technology.  
+### 🏥 [MOHCares (Brunei)](https://moh.gov.bn/mohcares-app/)
+A government platform for citizen feedback. Cross-platform (Ionic/React), with Firebase backend, deployed to App Store and Play Store.
 
-Explore my repositories to see how I transform ideas into scalable, efficient, and engaging solutions!  
+### 🧘‍♀️ [Fitinity App](https://www.linkedin.com/in/gentlyawesome/details/projects/1738757921460/single-media-viewer/)
+An instructor-led fitness platform. Designed in Figma, coded with precision using HTML/CSS and React.
 
-## 📫 Let’s Connect!  
-📍 **Baguio City, Philippines**  
-📧 [gentlyawesome@gmail.com](mailto:gentlyawesome@gmail.com)  
-🌐 [github.com/gentlyawesome](https://github.com/gentlyawesome)  
+### 🏓 [Breakroom Battles](https://www.linkedin.com/in/gentlyawesome/details/projects/1738758157683/single-media-viewer/)
+A mobile ping pong match app featuring a ranking algorithm and smooth UX built in Ionic + NodeJS.
+
+### 🐉 [Ark of Dreams](https://ark-of-dreams-dragon.bitbucket.io/)
+A metaverse game featuring NFT pets, MetaMask integration, Ethereum token sales, and VR/AR concepts.
+
+### 🖼️ [Lilian Mannahan Marketplace](https://www.liliannamanahan.com/marketplace-funkanators)
+A sleek NFT marketplace for digital artists. HTML/JS frontend with MetaMask purchase flow.
+
+---
+
+## 🧩 Career Highlights
+
+- 🔗 **Accenture (2022–2024)**: Scaled a blockchain betting platform processing 10,000+ secure daily transactions.
+- 📈 **Blueprint Business Solutions**: Built and secured a full-stack NFT marketplace from scratch.
+- 🔁 **Dev Partners**: Integrated advanced CI/CD pipelines with TDD using SonarQube.
+- 🎮 **Burdick**: Developed a real-time 3D NBA Topshot clone.
+- 🌐 **Business Angels (Co-Founder)**: Led web and mobile app builds using MEAN stack.
+- 🧪 **PayrollHero**: QA and client success for international payroll products.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced trading automation using AI & APIs  
+- Scalable multi-chain NFT platforms  
+- Streamlined DevOps for remote engineering teams  
+
+---
+
+## 📬 Let's Connect
+
+- 🧑‍💻 [LinkedIn](https://www.linkedin.com/in/gentlyawesome/)
+- 💬 [Email](mailto:gentlyawesome@gmail.com)
+- 🌐 [GitHub](https://github.com/gentlyawesome)
+
+---
+
+> “Build boldly. Deploy confidently. Learn endlessly.”  
+> – Arc Angelo Ibalio
+
